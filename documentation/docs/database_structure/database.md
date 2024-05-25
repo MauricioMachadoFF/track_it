@@ -18,8 +18,8 @@ This version of DER contain the following entities:
 - Serie: Specialized type of track;
 - Comic: Specialized type of track.
 
-<img src="https://raw.githubusercontent.com/MauricioMachadoFF/track_it/main/assets/database_structure/track_it_der_v1.png" alt="DER Diagram">
+![DER Diagram](/documentation//assets/database_structure/track_it_der_v1.png)
 
 ## Logical Diagram
 
-<img src="https://raw.githubusercontent.com/MauricioMachadoFF/track_it/main/assets/database_structure/track_it_logico_v1.png" alt="Logical Diagram">
+![Logical Diagram](/documentation/assets/database_structure/track_it_logico_v1.png)
