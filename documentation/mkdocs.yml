@@ -3,6 +3,9 @@ site_name: Track It
 nav:
   - Home: index.md
   - Database Structure: database_structure/database.md
+  - Requirements:
+      - Elicitation:
+          - Brainstorm: requirements/elicitation/brainstorm.md
 theme:
   name: readthedocs
   color_mode: dark
